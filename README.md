@@ -5,4 +5,3 @@
 - 📌: Focusing on Python & Javascript
 - 🔨: Working on deep learning for SLGR
 - 🐏: Leader of the GreenIsland organization
-- ⏰: Retired late night lover
