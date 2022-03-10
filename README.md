@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @spongxin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=spongxin&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!---
-spongxin/spongxin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋 , welcome to my space！
+
+- 📌: Focusing on Python & Javascript
+- 🔨: Working on deep learning for SLGR
+- 🐏: Leader of the GreenIsland organization
+- ⏰: Retired late night lover
