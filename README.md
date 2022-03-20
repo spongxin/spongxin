@@ -3,5 +3,5 @@
 ### Hi there 👋 , welcome to my space！
 
 - 📌: Focusing on Python & Javascript
-- 🔨: Working on machine learning for SLGR
+- 🔨: Contacting with Machine Learning for SLGR
 - 🐏: Member of the GreenIsland organization
